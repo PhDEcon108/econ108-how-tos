@@ -4,7 +4,7 @@
 
 (1) start an Anaconda Prompt (or a Windows terminal if it has been successfully setup to work with anaconda)
 
-![This is an image](./assets/images/navigation-1.png)
+![This is an image](./assets/images/navigation-1.PNG)
 
 (2) find and copy the path of the target directory 
 
