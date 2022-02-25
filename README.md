@@ -18,4 +18,5 @@
 
 ![This is an image](./assets/images/navigation-4.PNG)
 
-
+## Shuting down 
+After saving all open notebooks, press `control + c` in the terminal where the jupyter lab was started
