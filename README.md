@@ -20,3 +20,7 @@
 
 ## Shutting down 
 After saving all open notebooks, press `control + c` in the terminal where the jupyter lab was started
+
+## Download a notebook from [https://niskrev.github.io/PhDEcon108/](https://niskrev.github.io/PhDEcon108/)
+
+![This is an image](./assets/images/how-to-download.png)
