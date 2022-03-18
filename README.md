@@ -2,6 +2,8 @@
 
 ## Open a `jupyterlab` notebook in a directory of your choice
 
+$$\alpha$$
+
 (1) start an Anaconda Prompt (or a Windows terminal if it has been successfully setup to work with anaconda)
 
 ![This is an image](./assets/images/navigation-1.PNG)
