@@ -1,8 +1,13 @@
 # HOW TO's
 
+## Write math using Latex
+
+$$\alpha = \frac{1}/\infty$$
+
+
 ## Open a `jupyterlab` notebook in a directory of your choice
 
-$$\alpha$$
+
 
 (1) start an Anaconda Prompt (or a Windows terminal if it has been successfully setup to work with anaconda)
 
