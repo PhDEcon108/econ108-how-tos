@@ -2,8 +2,9 @@
 
 ## Write math using Latex
 
-$$\alpha = \frac{1}/\infty$$
+$$\alpha = \frac{1}{\infty}$$
 
+same as with markdown in Jupyter....
 
 ## Open a `jupyterlab` notebook in a directory of your choice
 
